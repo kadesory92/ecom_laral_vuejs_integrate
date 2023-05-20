@@ -1,8 +1,8 @@
-### Application E-Commerce Laravel 9 et VueJS 3
+### Laravel 9 E-Commerce Application and JS View 3 (integrate)
 
 - [x] API Composition
 - [x] Cart Count
-- [x] Gestion des quantités
-- [x] Paiement avec Stripe
-- [x] Enregistrement des commandes
+- [x] Quantity management
+- [x] Payment with Stripe
+- [x] Registration of orders
 - [x] Notifications Toasts
